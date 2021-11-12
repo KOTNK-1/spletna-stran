@@ -1,2 +1,2 @@
-# spletna-stran
-PAC JEBI GA NE NALAGAT TEGA HVALA RABM ZA SKOLO
+# spletna stran
+Za solo ;)
