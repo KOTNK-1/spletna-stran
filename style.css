@@ -176,10 +176,10 @@ a {
 table{
   top: 60%;
   left: 50%;
-  position: absolute;
-  transform: translateX(-50%) translateY(-50%);
-  font-family: sans-serif;
   border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
 }
 
 th{
