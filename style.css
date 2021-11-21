@@ -174,7 +174,7 @@ a {
 
 
 table{
-  top: 50%;
+  top: 60%;
   left: 50%;
   position: absolute;
   transform: translateX(-50%) translateY(-50%);
