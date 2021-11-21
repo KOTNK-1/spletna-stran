@@ -340,7 +340,7 @@ footer .end{
 }
 ::selection{
   color: #fff;
-  background: #FCBA7F;
+  background: rgb(119, 28, 255);
 }
 .wrapper img{
   max-width: 90px;
@@ -369,7 +369,7 @@ footer .end{
   font-size: 16px;
   font-weight: 500;
   border-radius: 5px;
-  background: #FCBA7F;
+  background: rgb(119, 28, 255);
   cursor: pointer;
   transition: all 0.3s ease;
 }
@@ -380,5 +380,5 @@ footer .end{
   margin: 0 10px;
 }
 .buttons a{
-  color: #FCBA7F;
+  color: rgb(119, 28, 255);
 }
