@@ -166,7 +166,7 @@ a {
 
 
 #page3{
-    height: 200vh;
+    height: 220vh;
     background: linear-gradient(to bottom, rgba(0,0,0,.6), rgba(0,0,0,.9)), url("img/page3.jpg") center no-repeat;
     background-size: ;
     position: relative;
@@ -178,6 +178,7 @@ table{
   top: 50%;
   left: 50%;
   max-height: 200px;
+  max-width: 200px;
   position: absolute;
   border-collapse: separate;
   transform: translateX(-50%) translateY(-50%);
