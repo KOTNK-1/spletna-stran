@@ -158,6 +158,7 @@ a {
  -moz-border-radius: 20px;
   border-radius: 20px;
   left: 50%;
+  top: 50%;
   position: absolute;
   transform: translateX(-50%) translateY(-50%);
   display: inline-block;
