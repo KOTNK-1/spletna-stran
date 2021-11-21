@@ -246,21 +246,6 @@ tbody{
   }
 }
 
-footer {
-    position: fixed;
-    bottom: 0;
-}
-
-@media (max-height:800px) {
-    footer {
-        position: static;
-    }
-    header {
-        padding-top: 40px;
-    }
-}
-
-
  footer{
     background: #222;
     color: #fff;
