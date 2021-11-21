@@ -157,7 +157,6 @@ a {
   -webkit-border-radius: 20px;
  -moz-border-radius: 20px;
   border-radius: 20px;
-  top: 50%;
   left: 50%;
   position: absolute;
   transform: translateX(-50%) translateY(-50%);
